@@ -8,8 +8,8 @@ export default function helps() {
             </h2>
             
             <div className='d-flex justify-content-center'>
-                <button class=" btn-primary nav-item mx-5">Become a Contributor</button>
-                <button class=" btn-danger nav-item">Donate</button>
+                <button class=" btn-primary nav-item mx-5 p-2">Become a Contributor</button>
+                <button class=" btn-danger nav-item sizebtn p-2">Donate</button>
             </div>
         </div>
     )
