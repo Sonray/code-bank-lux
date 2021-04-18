@@ -45,7 +45,7 @@ export default function sql() {
                         </p>
                     </div>
                 </div>
-                <div class="row col-sm">                    
+                <div class="row col-sm m-5">                    
                     <img src="../images/binary.jpg" alt="" class="img-fluid col-md-5 pixel"/>
                     <div class=" col-md-7">
                         <h4>SQL Code Organisation</h4>
