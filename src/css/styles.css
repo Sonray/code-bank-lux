@@ -38,3 +38,9 @@
 .top{
     margin-top: -10px;
 }
+.width{
+    width: 500px;
+}
+body{
+    overflow-x: hidden;
+}
