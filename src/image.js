@@ -4,7 +4,7 @@ export default function image() {
     return (
         <div class = " container row mx-auto m-5">
             <div class="col-2 ">
-                <img src='../images/Angular_full_color_logo.svg.png' alt="" class="img-fluid pixel" />
+                <img src='./images/Angular_full_color_logo.svg.png' alt="" class="img-fluid pixel" />
             </div>
 
             <div class="col-2 mx-5">
