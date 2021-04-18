@@ -31,7 +31,7 @@ export default function sql() {
                     </div>
                 </div>
             </div>
-            <div class="row">
+            <div class="row m-2">
                 <div class="row col-sm m-5">                    
                     <img src="../images/binary.jpg" alt="" class="img-fluid col-md-5 pixel"/>
                     <div class=" col-md-7">
