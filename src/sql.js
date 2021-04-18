@@ -4,7 +4,7 @@ export default function sql() {
     return (
         <div>
             <div class=" row">
-                <div class="row col-sm">                    
+                <div class="row col-sm m-5">                    
                     <img src="../images/loading-cdr-181598565.jpg" alt="" class="img-fluid col-md-5 pixel"/>
                     <div class=" col-md-7">
                         <h4>SQL Code Organisation</h4>
@@ -17,7 +17,7 @@ export default function sql() {
                         </p>
                     </div>
                 </div>
-                <div class="row col-sm">                    
+                <div class="row col-sm ">                    
                     <img src="../images/dashboard.png" alt="" class="rounded col-md-5 pixel"/>
                     <div class=" col-md-7">
                         <h4>SQL Code Organisation</h4>
