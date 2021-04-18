@@ -13,7 +13,7 @@ export default function lorem() {
                     ipsa quae ab illo inventore veritatis et quasi 
                 </p>
                 <div class='d-flex justify-content-center'>
-                    <button class="btn-danger sizebtn1 p-2">Learn More</button>
+                    <button class="btn-danger sizebtn1 p-2 ">Learn More</button>
                 </div>
             </div>
             <div class="col-md-6 pink height">
