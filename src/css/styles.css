@@ -1,0 +1,13 @@
+.pixel{
+    height: 120px;
+    width: 120px;
+}
+.pink{
+    background-color: antiquewhite;
+}
+.blue{
+    background-color: rgb(167, 207, 233);
+}
+.pinky{
+    background-color: pink;
+}
