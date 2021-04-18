@@ -5,7 +5,7 @@ export default function top() {
     return (
         
         <div class='top'>
-            <div class='skewy btn-primary'></div>
+            <div class='skewy bg-primary'></div>
 
             <div class='pinktry length pinky '>
                 <div className={'col-6 pinky p-5 ' }>
