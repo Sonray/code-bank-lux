@@ -3,7 +3,7 @@ import React from 'react'
 export default function navbar() {
     return (
         <div class="navbar navbar-expand-lg ">
-            <div class="navbar col-md-6 pinky">
+            <div class="navbar col-md-6 pinky px-5">
                 <h3 class="navbar-brand">CodeBank</h3>
             </div>
             <nav class="navbar-collapse d-flex navbar navbar-dark bg-primary" id="navbarNav">
