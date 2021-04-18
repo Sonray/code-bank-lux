@@ -8,7 +8,7 @@ export default function image() {
             </div>
 
             <div class="col-2 mx-5">
-                <img src="../images/css-3-logo.png" alt="" class="img-fluid pixel"/>
+                <img src=".../images/css-3-logo.png" alt="" class="img-fluid pixel"/>
             </div>
 
             <div class="col-2 mx-3">
