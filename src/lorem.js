@@ -4,7 +4,7 @@ export default function lorem() {
     return (
         <div class="row m-5">
             <div class="col-md-6 blue height">
-                <h3 class='d-flex justify-content-center'>
+                <h3 class='d-flex justify-content-center m-5'>
                     Lorem Ipsum
                 </h3>
                 <p class='d-flex justify-content-center text-center'>
@@ -17,7 +17,7 @@ export default function lorem() {
                 </div>
             </div>
             <div class="col-md-6 pink height">
-                <h3 class='d-flex justify-content-center'>
+                <h3 class='d-flex justify-content-center m-5'>
                     Lorem Ipsum
                 </h3>
                 <p class='d-flex justify-content-center text-center'>
