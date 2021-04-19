@@ -21,16 +21,6 @@
     width: 150px;
 }
 
-.sp{
-    color: #0d6efd;
-    margin-left: 3rem;
-}
-
-.nav-item{
-padding: 0px 7px; 
-
-}
-
 .lr {
     margin-left: 1rem;
 }
@@ -39,23 +29,4 @@ padding: 0px 7px;
     background-color: #0d6efd; 
 }
 
-/*---Media Queries --*/
-@media (max-width: 992px) {
-    .navbar{
-        width: 990px;
-        
-    } 
-}
-@media (max-width: 768px) {
-.navbar{
-    width: 760px;
-    
-}
 
-}
-@media (max-width: 576px) {
-.navbar{
-    width: 500px;
-
-}
-}
