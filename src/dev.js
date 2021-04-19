@@ -3,7 +3,7 @@ import React from 'react'
 export default function dev() {
     return (
         <div class="row  mx-5 my-5">
-            <div class="col-sm-12 col-md-6 col-lg-6 margin-top-3 mt-4">
+            <div class="col-sm-12 col-md-12 col-lg-6 margin-top-3 mt-4">
                 <h3 class="text-danger mb-3">
                     Developers Helping Hand
                 </h3>
