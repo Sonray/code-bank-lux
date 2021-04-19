@@ -1,26 +1,31 @@
-import React from 'react'
+import React from 'react';
+import Angulalogo from './images/Angular_full_color_logo.svg.png'
+import Css3 from './images/css-3-logo.png'
+import Html_5 from './images/html-logo.png'
+import Js from './images/600px-JavaScript-logo.png'
+import Saas from './images/saas.png'
 
 export default function image() {
     return (
         <div class = " container row mx-auto m-5">
             <div class="col-2 ">
-                <img src='./images/Angular_full_color_logo.svg.png' alt="" class="img-fluid pixel" />
+                <img src={Angulalogo} alt="" class="img-fluid pixel" />
             </div>
 
             <div class="col-2 mx-5">
-                <img src=".../images/css-3-logo.png" alt="" class="img-fluid pixel"/>
+                <img src={Css3} alt="" class="img-fluid pixel"/>
             </div>
 
             <div class="col-2 mx-3">
-                <img src="../images/html-logo.png" alt="" class="img-fluid pixel"/>
+                <img src={Html_5} alt="" class="img-fluid pixel"/>
             </div>
 
             <div class="col-2 mx-3">
-                <img src="../images/600px-JavaScript-logo.png" alt="" class="img-fluid pixel"/>
+                <img src={Js} alt="" class="img-fluid pixel"/>
             </div>
 
             <div class="col-2 mx-2">
-                <img src="../images/saas.png" alt="" class="img-fluid pixel"/>
+                <img src={Saas} alt="" class="img-fluid pixel"/>
             </div>
         </div>
     )
