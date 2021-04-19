@@ -1,11 +1,14 @@
 import React from 'react'
+import Loading from './images/loading-cdr-181598565.jpg'
+import Dash from './images/dashboard.png'
+import Binary from './images/binary.jpg'
 
 export default function sql() {
     return (
         <div>
             <div class=" row m-2">
                 <div class="row col-sm m-5">                    
-                    <img src="../images/loading-cdr-181598565.jpg" alt="" class="img-fluid col-md-5 pixel"/>
+                    <img src={Loading} alt="" class="img-fluid col-md-5 pixel"/>
                     <div class=" col-md-7">
                         <h4>SQL Code Organisation</h4>
                         
@@ -18,7 +21,7 @@ export default function sql() {
                     </div>
                 </div>
                 <div class="row col-sm m-5">                    
-                    <img src="../images/dashboard.png" alt="" class="rounded col-md-5 pixel"/>
+                    <img src={Dash} alt="" class="rounded col-md-5 pixel"/>
                     <div class=" col-md-7">
                         <h4>SQL Code Organisation</h4>
                         
@@ -33,7 +36,7 @@ export default function sql() {
             </div>
             <div class="row m-2">
                 <div class="row col-sm m-5">                    
-                    <img src="../images/binary.jpg" alt="" class="img-fluid col-md-5 pixel"/>
+                    <img src={Binary} alt="" class="img-fluid col-md-5 pixel"/>
                     <div class=" col-md-7">
                         <h4>SQL Code Organisation</h4>
                         
@@ -46,7 +49,7 @@ export default function sql() {
                     </div>
                 </div>
                 <div class="row col-sm m-5">                    
-                    <img src="../images/binary.jpg" alt="" class="img-fluid col-md-5 pixel"/>
+                    <img src={Binary} alt="" class="img-fluid col-md-5 pixel"/>
                     <div class=" col-md-7">
                         <h4>SQL Code Organisation</h4>
                         

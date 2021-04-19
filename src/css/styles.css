@@ -20,3 +20,27 @@
 .sizebtn1{
     width: 150px;
 }
+.skewy{
+    position: absolute;
+    height: 300px;
+    width: 1000px;
+    margin-left: 1036px;
+    transform: skew(70deg);
+    z-index: 100;
+    border-radius: 20px;
+}
+.pinktry {
+    clip-path: polygon(0 0, 100% 0, 35% 100%, 0% 100%);
+}
+.length{
+    width: 1100px;
+}
+.top{
+    margin-top: -10px;
+}
+.width{
+    width: 500px;
+}
+body{
+    overflow-x: hidden;
+}
