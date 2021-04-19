@@ -1,0 +1,23 @@
+.top{
+    
+padding: 20px;
+width: 100%;
+
+}
+
+.text_center{
+    font-size: 1.8rem;
+    font-weight: bold;
+    margin-left: 75px;
+}
+
+.desc{
+    font-size: 0.7rem;
+    margin-left: 75px;
+    flex: 1;
+}
+
+.top_buttons{
+    display: flex;   
+    justify-content:space-evenly;
+}
