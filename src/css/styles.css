@@ -35,7 +35,6 @@
     background-color: #0d6efd; 
 }
 
-
 .skewy{
     position: absolute;
     height: 300px;
@@ -59,4 +58,25 @@
 }
 body{
     overflow-x: hidden;
+}
+
+/*---Media Queries --*/
+@media (max-width: 992px) {
+    .navbar{
+        width: 990px!important;
+        
+    } 
+}
+@media (max-width: 768px) {
+.navbar{
+    width: 760px!important;
+    
+}
+
+}
+@media (max-width: 576px) {
+.navbar{
+    width: 500px!important;
+
+}
 }
