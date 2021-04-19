@@ -8,23 +8,23 @@ import Saas from './images/saas.png'
 export default function image() {
     return (
         <div class = " container row mx-auto m-5">
-            <div class="col-2 ">
+            <div class="col-lg-2 col-md-4 col-sm-12">
                 <img src={Angulalogo} alt="" class="img-fluid pixel" />
             </div>
 
-            <div class="col-2 mx-5">
+            <div class="col-lg-2 col-md-4 col-sm-12 mx-5">
                 <img src={Css3} alt="" class="img-fluid pixel"/>
             </div>
 
-            <div class="col-2 mx-3">
+            <div class="col-lg-2 col-md-4 col-sm-12 mx-3">
                 <img src={Html_5} alt="" class="img-fluid pixel"/>
             </div>
 
-            <div class="col-2 mx-3">
+            <div class="col-lg-2 col-md-4 col-sm-12 mx-3">
                 <img src={Js} alt="" class="img-fluid pixel"/>
             </div>
 
-            <div class="col-2 mx-2">
+            <div class="col-lg-2 col-md-4 col-sm-12 mx-2">
                 <img src={Saas} alt="" class="img-fluid pixel"/>
             </div>
         </div>
