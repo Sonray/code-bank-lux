@@ -2,13 +2,13 @@ import React from 'react'
 
 export default function navbar() {
     return (
-        <div class="navbar navbar-expand-lg ">
+        <div class="navbar navbar-expand-lg">
             <div class="navbar col-md-6 pinky">
-                <h3 class="navbar-brand">CodeBank</h3>
+                <h3 class="navbar-brand sp">CodeBank</h3>
             </div>
-            <nav class="navbar-collapse d-flex navbar navbar-dark bg-primary" id="navbarNav">
+            <nav class="navbar-collapse d-flex navbar navbar-dark bg-primary avt" id="navbarNav">
                 <ul class="navbar-nav">
-                    <li class="nav-item ">
+                    <li class="nav-item">
                         < a class="nav-link text-white" href="#">How it works</a>
                     </li>
                     <li class="nav-item">
