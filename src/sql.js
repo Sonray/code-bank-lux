@@ -5,14 +5,14 @@ import Binary from './images/binary.jpg'
 
 export default function sql() {
     return (
-        <div>
+        <div class='sqlsection'>
             <div class=" row m-2">
-                <div class="row col-sm m-5">                    
+                <div class="row col-12 col-md-6 col-sm-12 justify-content-center">                    
                     <img src={Loading} alt="" class="img-fluid col-md-5 pixel"/>
                     <div class=" col-md-7">
                         <h4>SQL Code Organisation</h4>
                         
-                        <p>
+                        <p >
                         Sed ut perspiciatis unde omnis iste natus error sit voluptatem
                         accusantium doloremque laudantium, totam rem aperiam, eaque
                         ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
@@ -20,7 +20,7 @@ export default function sql() {
                         </p>
                     </div>
                 </div>
-                <div class="row col-sm m-5">                    
+                <div class="row col-12 col-md-6 col-sm-12 justify-content-center" >                    
                     <img src={Dash} alt="" class="rounded col-md-5 pixel"/>
                     <div class=" col-md-7">
                         <h4>SQL Code Organisation</h4>
