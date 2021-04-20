@@ -52,10 +52,11 @@ export default function footer() {
           </ul>
           </li>
           </ul>
-          <div class="b-footer">
-    <p>
-    All rights reserved by ©Lux62021 </p>
-    </div>
+          <div class="row">
+            <div class="b-footer col-lg-12 col-md-12 col-sm-12">
+              <p>All rights reserved by ©Lux62021 </p>
+            </div>
+          </div>
     </div>
     )
 }
