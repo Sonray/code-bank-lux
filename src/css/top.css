@@ -1,0 +1,45 @@
+.top{
+    
+padding: 20px;
+width: 100%;
+
+}
+
+.text_center{
+    font-size: 1.8rem;
+    font-weight: bold;
+    margin-left: 75px;
+}
+
+.desc{
+    font-size: 0.7rem;
+    margin-left: 75px;
+    flex: 1;
+}
+
+.top_buttons{
+    display: flex;   
+    justify-content:space-evenly;
+}
+
+@media (max-width: 992px) {
+     
+    .rsp{
+        width: 800px!important;  
+    }
+}
+
+@media (max-width: 768px) {
+    .rsp{
+        width: 650px!important;
+        
+    }
+    
+    }
+    @media (max-width: 576px) {
+    .rsp{
+        width: 500px!important;
+    
+    }
+    
+    }
