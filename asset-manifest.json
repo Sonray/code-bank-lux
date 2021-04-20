@@ -1,31 +1,32 @@
 {
   "files": {
-    "main.css": "/code-bank-lux/static/css/main.c287ec26.chunk.css",
-    "main.js": "/code-bank-lux/static/js/main.a2a8c04e.chunk.js",
-    "main.js.map": "/code-bank-lux/static/js/main.a2a8c04e.chunk.js.map",
-    "runtime-main.js": "/code-bank-lux/static/js/runtime-main.31eef95f.js",
-    "runtime-main.js.map": "/code-bank-lux/static/js/runtime-main.31eef95f.js.map",
+    "main.css": "/code-bank-lux/static/css/main.f7a71044.chunk.css",
+    "main.js": "/code-bank-lux/static/js/main.a1ba99bf.chunk.js",
+    "main.js.map": "/code-bank-lux/static/js/main.a1ba99bf.chunk.js.map",
+    "runtime-main.js": "/code-bank-lux/static/js/runtime-main.8838da17.js",
+    "runtime-main.js.map": "/code-bank-lux/static/js/runtime-main.8838da17.js.map",
     "static/css/2.9b65366f.chunk.css": "/code-bank-lux/static/css/2.9b65366f.chunk.css",
-    "static/js/2.82ccba30.chunk.js": "/code-bank-lux/static/js/2.82ccba30.chunk.js",
-    "static/js/2.82ccba30.chunk.js.map": "/code-bank-lux/static/js/2.82ccba30.chunk.js.map",
-    "static/js/3.6fbde497.chunk.js": "/code-bank-lux/static/js/3.6fbde497.chunk.js",
-    "static/js/3.6fbde497.chunk.js.map": "/code-bank-lux/static/js/3.6fbde497.chunk.js.map",
+    "static/js/2.f2cfecdf.chunk.js": "/code-bank-lux/static/js/2.f2cfecdf.chunk.js",
+    "static/js/2.f2cfecdf.chunk.js.map": "/code-bank-lux/static/js/2.f2cfecdf.chunk.js.map",
+    "static/js/3.606ff95b.chunk.js": "/code-bank-lux/static/js/3.606ff95b.chunk.js",
+    "static/js/3.606ff95b.chunk.js.map": "/code-bank-lux/static/js/3.606ff95b.chunk.js.map",
     "index.html": "/code-bank-lux/index.html",
     "static/css/2.9b65366f.chunk.css.map": "/code-bank-lux/static/css/2.9b65366f.chunk.css.map",
-    "static/css/main.c287ec26.chunk.css.map": "/code-bank-lux/static/css/main.c287ec26.chunk.css.map",
-    "static/js/2.82ccba30.chunk.js.LICENSE.txt": "/code-bank-lux/static/js/2.82ccba30.chunk.js.LICENSE.txt",
+    "static/css/main.f7a71044.chunk.css.map": "/code-bank-lux/static/css/main.f7a71044.chunk.css.map",
+    "static/js/2.f2cfecdf.chunk.js.LICENSE.txt": "/code-bank-lux/static/js/2.f2cfecdf.chunk.js.LICENSE.txt",
     "static/media/600px-JavaScript-logo.26cc380e.png": "/code-bank-lux/static/media/600px-JavaScript-logo.26cc380e.png",
     "static/media/Angular_full_color_logo.svg.8cbd3d8b.png": "/code-bank-lux/static/media/Angular_full_color_logo.svg.8cbd3d8b.png",
     "static/media/binary.921aecd5.jpg": "/code-bank-lux/static/media/binary.921aecd5.jpg",
     "static/media/css-3-logo.486422b1.png": "/code-bank-lux/static/media/css-3-logo.486422b1.png",
     "static/media/loading-cdr-181598565.9bf68644.jpg": "/code-bank-lux/static/media/loading-cdr-181598565.9bf68644.jpg",
-    "static/media/saas.f1d4824f.png": "/code-bank-lux/static/media/saas.f1d4824f.png"
+    "static/media/saas.f1d4824f.png": "/code-bank-lux/static/media/saas.f1d4824f.png",
+    "static/media/saas_1.3ee1ed45.png": "/code-bank-lux/static/media/saas_1.3ee1ed45.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.31eef95f.js",
+    "static/js/runtime-main.8838da17.js",
     "static/css/2.9b65366f.chunk.css",
-    "static/js/2.82ccba30.chunk.js",
-    "static/css/main.c287ec26.chunk.css",
-    "static/js/main.a2a8c04e.chunk.js"
+    "static/js/2.f2cfecdf.chunk.js",
+    "static/css/main.f7a71044.chunk.css",
+    "static/js/main.a1ba99bf.chunk.js"
   ]
 }
