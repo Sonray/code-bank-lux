@@ -2,7 +2,7 @@ import React from 'react'
 
 export default function lorem() {
     return (
-        <div class="row my-5">
+        <div class="row ">
             <div class="col-sm-12 col-md-12 col-lg-6 blue height">
                 <h3 class='d-flex justify-content-center m-5'>
                     Lorem Ipsum

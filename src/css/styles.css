@@ -84,3 +84,19 @@ body{
 
 }
 }
+
+.sqlsection {
+    background-color: #f6ffff;
+}
+
+.sql-info{
+    background-color: #ffffff;
+    border-radius: 2px;
+   margin: 30px;
+ 
+}
+
+.sql-header{
+    padding: 30px 0;
+    color: #0d6efd;
+}
