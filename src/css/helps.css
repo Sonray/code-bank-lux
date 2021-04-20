@@ -1,0 +1,41 @@
+
+
+@media (max-width: 992px) {
+     
+    .bts{
+        width: 50px;
+        margin-left: 5rem;
+        margin-right: 5rem;
+    }
+    .bts1{
+        width: 350px;
+        justify-content:  center;
+    }
+}
+
+@media (max-width: 768px) {
+    .bts{
+        width: 150px;
+        margin-left: 5rem;
+        margin-right: 5rem;
+    }
+    .bts1{
+        width: 350px;
+        justify-content: center;
+        margin-right: 20rem;
+    }
+    
+    }
+    @media (max-width: 576px) {
+
+        .bts{
+            width: 50px;
+            margin-left: 5rem;
+            margin-right: 5rem;
+        }
+        .bts1{
+            width: 50px; 
+            justify-content:  center;
+        }
+    
+    }
