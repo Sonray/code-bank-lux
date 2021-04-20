@@ -5,14 +5,13 @@ import Binary from './images/binary.jpg'
 
 export default function sql() {
     return (
-        <div>
-            <div class=" row m-2">
-                <div class="row col-sm m-5">                    
-                    <img src={Loading} alt="" class="img-fluid col-md-5 pixel"/>
-                    <div class=" col-md-7">
-                        <h4>SQL Code Organisation</h4>
-                        
-                        <p>
+        <div class='sqlsection'>
+            <div class="row  ">
+                <div class="row col-sm-12 col-md-12 col-lg-6  sql-info mx-auto" style={{width: 620}}>                    
+                    <img src={Loading} alt="" class="img-fluid col-md-5 pixel logo"/>
+                    <div class=" col-md-7 ">
+                        <h4 class="sql-header">SQL Code Organisation</h4>
+                        <p >
                         Sed ut perspiciatis unde omnis iste natus error sit voluptatem
                         accusantium doloremque laudantium, totam rem aperiam, eaque
                         ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
@@ -20,10 +19,10 @@ export default function sql() {
                         </p>
                     </div>
                 </div>
-                <div class="row col-sm m-5">                    
-                    <img src={Dash} alt="" class="rounded col-md-5 pixel"/>
+                <div class="row col-sm-12 col-md-12 col-lg-6  sql-info mx-auto"  style={{width: 620}} >                    
+                    <img src={Dash} alt="" class="img-fluid col-md-5 pixel logo"/>
                     <div class=" col-md-7">
-                        <h4>SQL Code Organisation</h4>
+                        <h4 class="sql-header">SQL Code Organisation</h4>
                         
                         <p>
                         Sed ut perspiciatis unde omnis iste natus error sit voluptatem
@@ -34,11 +33,11 @@ export default function sql() {
                     </div>
                 </div>
             </div>
-            <div class="row m-2">
-                <div class="row col-sm m-5">                    
-                    <img src={Binary} alt="" class="img-fluid col-md-5 pixel"/>
+            <div class="row ">
+                <div class="row col-sm-12 col-md-12 col-lg-6  sql-info mx-auto" style={{width: 620}}>                    
+                    <img src={Binary} alt="" class="img-fluid col-md-5 pixel logo"/>
                     <div class=" col-md-7">
-                        <h4>SQL Code Organisation</h4>
+                        <h4 class="sql-header">SQL Code Organisation</h4>
                         
                         <p>
                         Sed ut perspiciatis unde omnis iste natus error sit voluptatem
@@ -48,10 +47,10 @@ export default function sql() {
                         </p>
                     </div>
                 </div>
-                <div class="row col-sm m-5">                    
-                    <img src={Binary} alt="" class="img-fluid col-md-5 pixel"/>
+                <div class="row col-sm-12 col-md-12 col-lg-6  sql-info mx-auto" style={{width: 620}}>                    
+                    <img src={Binary} alt="" class="img-fluid col-md-5 pixel logo"/>
                     <div class=" col-md-7">
-                        <h4>SQL Code Organisation</h4>
+                        <h4 class="sql-header">SQL Code Organisation</h4>
                         
                         <p>
                         Sed ut perspiciatis unde omnis iste natus error sit voluptatem

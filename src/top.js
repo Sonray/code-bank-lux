@@ -1,15 +1,15 @@
 import React from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import "./top.css";
+import "./css/top.css";
 
 export default function top() {
     return (
 
         
         <div class='top'>
-            <div class='skewy bg-primary'></div>
+            <div class='skewy bg-primary rsp'></div>
 
-            <div class='pinktry length pinky '>
+            <div class='pinktry length pinky rsp'>
                 <div className={'col-6 pinky p-5 ' }>
                     <p>
                         <h2 className="">
@@ -25,7 +25,7 @@ export default function top() {
                     </p>
                     <div>
                         <button class=" btn-primary sizebtn1 p-2 " >Get Started</button>
-                        <button class=" btn-light text-primary sizebtn1 p-2 m-4 appear" >Learn More</button>
+                        <button class=" btn-light text-primary sizebtn1 p-2 m-1 appear" >Learn More</button>
                     </div>
                 </div>
 
