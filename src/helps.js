@@ -3,8 +3,8 @@ import "./css/helps.css"
 
 export default function helps() {
     return (
-        <div class="m-5 pt-5 bts1">
-            <h2 className='d-flex justify-content-center pb-3'>
+        <div class="m-5 pt-5">
+            <h2 className='d-flex justify-content-center pb-3 bts1'>
                 Help us grow this project. Partner with us today.
             </h2>
             
