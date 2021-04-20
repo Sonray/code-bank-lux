@@ -1,9 +1,12 @@
 import React from 'react'
+import Image from './images/saas_1.png'
+
+
 
 export default function dev() {
     return (
         <div class="row  mx-5 my-5">
-            <div class="col-sm-12 col-md-12 col-lg-6 margin-top-3 mt-4">
+            <div class="col-sm margin-top-3 mt-4">
                 <h3 class="text-danger mb-3">
                     Developers Helping Hand
                 </h3>
@@ -24,8 +27,8 @@ export default function dev() {
                     <button class=" btn-outline-primary sizebtn1 p-2 m-4">View on GitHub</button>
                 </div>
             </div>
-            <div class="col-sm">
-                <img src="../images/saas_1.png" alt="" class="img-fluid"/>
+            <div class="col-sm mx-3">
+                <img src={Image} alt="" class="img-fluid"/>
             </div>
         </div>
     )

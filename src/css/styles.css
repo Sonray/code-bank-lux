@@ -20,21 +20,6 @@
 .sizebtn1{
     width: 150px;
 }
-
-.sp{
-    color: #0d6efd;
-    margin-left: 3rem;
-}
-
-
-.lr {
-    margin-left: 1rem;
-}
-
-.bt{
-    background-color: #0d6efd; 
-}
-
 .skewy{
     position: absolute;
     height: 300px;
@@ -59,24 +44,8 @@
 body{
     overflow-x: hidden;
 }
-
-/*---Media Queries --*/
-@media (max-width: 992px) {
-    .navbar{
-        width: 990px!important;
-        
-    } 
-}
-@media (max-width: 768px) {
-.navbar{
-    width: 760px!important;
-    
-}
-
-}
-@media (max-width: 576px) {
-.navbar{
-    width: 500px!important;
-
-}
+.btn-danger:hover, .btn-outline-primary:hover{
+    background: #fff;
+    color: #242424;
+    transition: all 0.3s ease-out;
 }
