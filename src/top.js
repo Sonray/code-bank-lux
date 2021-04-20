@@ -1,8 +1,10 @@
 import React from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
+import "./top.css";
 
 export default function top() {
     return (
+
         
         <div class='top'>
             <div class='skewy bg-primary'></div>
@@ -26,6 +28,7 @@ export default function top() {
                         <button class=" btn-light text-primary sizebtn1 p-2 m-4 appear" >Learn More</button>
                     </div>
                 </div>
+
             </div>
         </div>
     )
