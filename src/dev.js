@@ -1,4 +1,5 @@
 import React from 'react'
+import Saas from './images/saas_1.png'
 
 export default function dev() {
     return (
@@ -25,7 +26,7 @@ export default function dev() {
                 </div>
             </div>
             <div class="col-sm">
-                <img src="../images/saas_1.png" alt="" class="img-fluid"/>
+                <img src={Saas} alt="" class="img-fluid"/>
             </div>
         </div>
     )

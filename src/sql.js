@@ -6,9 +6,9 @@ import Binary from './images/binary.jpg'
 export default function sql() {
     return (
         <div class='sqlsection'>
-            <div class="row  ">
-                <div class="row col-sm-12 col-md-12 col-lg-6  sql-info mx-auto" style={{width: 620}}>                    
-                    <img src={Loading} alt="" class="img-fluid col-md-5 pixel logo"/>
+            <div class="row lef ">
+                <div class="row col-sm-6 col-md-6 col-lg-6  sql-info mx-auto" style={{width: 620}}>                    
+                    <img src={Loading} alt="" class="img-fluid col-md-5 pixel mt-5"/>
                     <div class=" col-md-7 ">
                         <h4 class="sql-header">SQL Code Organisation</h4>
                         <p >
@@ -19,8 +19,8 @@ export default function sql() {
                         </p>
                     </div>
                 </div>
-                <div class="row col-sm-12 col-md-12 col-lg-6  sql-info mx-auto"  style={{width: 620}} >                    
-                    <img src={Dash} alt="" class="img-fluid col-md-5 pixel logo"/>
+                <div class="row col-sm-6 col-md-6 col-lg-6  sql-info mx-auto"  style={{width: 620}} >                    
+                    <img src={Dash} alt="" class="img-fluid col-md-5 pixel mt-5"/>
                     <div class=" col-md-7">
                         <h4 class="sql-header">SQL Code Organisation</h4>
                         
@@ -33,9 +33,9 @@ export default function sql() {
                     </div>
                 </div>
             </div>
-            <div class="row ">
-                <div class="row col-sm-12 col-md-12 col-lg-6  sql-info mx-auto" style={{width: 620}}>                    
-                    <img src={Binary} alt="" class="img-fluid col-md-5 pixel logo"/>
+            <div class="row lef">
+                <div class="row col-sm-12 col-md-12 col-lg-6  sql-info mx-auto " style={{width: 620}}>                    
+                    <img src={Binary} alt="" class="img-fluid col-md-5 pixel mt-5"/>
                     <div class=" col-md-7">
                         <h4 class="sql-header">SQL Code Organisation</h4>
                         
@@ -48,7 +48,7 @@ export default function sql() {
                     </div>
                 </div>
                 <div class="row col-sm-12 col-md-12 col-lg-6  sql-info mx-auto" style={{width: 620}}>                    
-                    <img src={Binary} alt="" class="img-fluid col-md-5 pixel logo"/>
+                    <img src={Binary} alt="" class="img-fluid col-md-5 pixel mt-5"/>
                     <div class=" col-md-7">
                         <h4 class="sql-header">SQL Code Organisation</h4>
                         
