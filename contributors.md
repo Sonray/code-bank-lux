@@ -8,7 +8,7 @@ waweruval@gmail.com
 rosaliakaluki@gmail.com
 4. Phares Muhambi 
 pharesmuhambi88@gmail.com
-5.Victor Buzes 
+5. Victor Buzes 
 buzesvictort@gmail.com
 6. Steven Opio 
 stevenviko@gmail.com
